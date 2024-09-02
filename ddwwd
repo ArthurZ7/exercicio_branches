@@ -1,0 +1,23 @@
+[33mcommit 566bfe7544be17dd55b25a144d560adc04c1ce43[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: John Doe <johndoe@email.com>
+Date:   Tue Aug 27 21:54:31 2024 -0300
+
+    modificações classe Teste.javar
+
+[33mcommit 4cdaa86279543f81d20d2d076b24ed9979ec8202[m
+Author: John Doe <johndoe@email.com>
+Date:   Tue Aug 27 21:41:10 2024 -0300
+
+    nova classe TesteMaster
+
+[33mcommit bcfc9f44488d60ecdcf2f3e461a27ff4b44a1ee1[m
+Author: John Doe <johndoe@email.com>
+Date:   Tue Aug 27 21:35:16 2024 -0300
+
+    nova classe teste
+
+[33mcommit 38c69bf2897f58b5f020c716f70e195b7ab62f98[m
+Author: John Doe <johndoe@email.com>
+Date:   Tue Aug 27 21:22:19 2024 -0300
+
+    versao inicial do projeto
